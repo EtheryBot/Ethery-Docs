@@ -1,6 +1,6 @@
 The privacy of your data means a great deal to us. In this Privacy Policy, we describe what data we collect and why, and how that data is handled by us. We do not and will not ever sell any personal information.
 
-When we use the terms "Company", "we", "our", or "us" in this document, we are referring to TypicalBot LLC. When we use the term "Services" in this document, we mean all products and services created, maintained, and operated by the Company. When we use the term "Website" in this document, we mean the Company’s website located at https://typicalbot.com.
+When we use the terms "Company", "we", "our", or "us" in this document, we are referring to Ethery Bot LLC. When we use the term "Services" in this document, we mean all products and services created, maintained, and operated by the Company. When we use the term "Website" in this document, we mean the Company’s discord located at [Ethery.com](https://discord.gg/GPvh39SuZs).
 
 This Privacy Policy applies to the Services and the Website.
 
